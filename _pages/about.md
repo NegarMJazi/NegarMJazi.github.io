@@ -10,10 +10,7 @@ profile:
   align: right
   image: prof_pic.jpg          # EDIT: add your headshot as assets/img/prof_pic.jpg
   image_circular: true         # set to true for a circular crop (common for academic sites)
-  more_info: >
-    <p>EDIT: Suite 2400, Steinberg-Dietrich Hall</p>
-    <p>3620 Locust Walk</p>
-    <p>Philadelphia, PA 19104</p>
+  more_info: # EDIT: add office address here if desired, e.g. <p>Room 123, Department of Economics</p>
 
 selected_papers: true  # shows papers marked selected={true} in papers.bib
 social: true           # shows social icons from _data/socials.yml
