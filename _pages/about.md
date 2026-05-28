@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 # EDIT: Your subtitle — institution name and/or department
-subtitle: PhD Candidate in Finance · <a href="https://www.wharton.upenn.edu">Wharton School, University of Pennsylvania</a>
+subtitle: PhD Candidate in Economics · <a href="https://www.wharton.upenn.edu">London School of Economics</a>
 
 profile:
   align: right
