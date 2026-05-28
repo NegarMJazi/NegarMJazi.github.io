@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 # EDIT: Your subtitle — institution name and/or department
-subtitle: PhD Candidate in Economics · <a href="https://www.wharton.upenn.edu">London School of Economics</a>
+subtitle: PhD Candidate in Economics · <a href="https://www.lse.ac.uk">London School of Economics</a>
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
 
 <!-- EDIT: Replace this with your bio. 2–3 short paragraphs. -->
 
-I am a fifth-year PhD candidate in Finance at the Wharton School, University of Pennsylvania. My research focuses on the role of financial intermediaries in capital markets, with particular emphasis on how information frictions and balance-sheet constraints shape the pricing of risk and the transmission of monetary policy.
+<!-- EDIT: Paragraph 1 — your program, institution, and broad research interests. Example: "I am a PhD candidate in [Field] at the London School of Economics. My research focuses on [topic]." -->
 
-My job market paper studies how information asymmetries between banks and capital markets generate endogenous variation in the cost of external finance and amplify aggregate investment cycles. I am on the **2025–2026 academic job market** and will be available for interviews at the ASSA Annual Meeting in January 2026.
+<!-- EDIT: Paragraph 2 — your job market paper and availability. Example: "My job market paper studies [topic]. I am on the 2025–2026 academic job market and will be available for interviews at the ASSA Annual Meeting in January 2026." -->
 
-<!-- EDIT: Add a third paragraph about prior background, undergraduate institution, or specific research agenda. -->
+<!-- EDIT: Paragraph 3 (optional) — prior background, undergraduate institution, or specific research agenda. -->
