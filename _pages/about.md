@@ -25,19 +25,19 @@ author_profile: false
   <h2>References</h2>
   <div class="refs-grid">
     <div class="ref-item">
-      <div class="ref-name"><!-- EDIT: Advisor Name (primary) --></div>
-      <div class="ref-inst"><!-- EDIT: Institution --></div>
-      <div class="ref-email"><a href="mailto:<!-- EDIT: email -->"><!-- EDIT: email --></a></div>
+      <div class="ref-name">Alessandro Gavazza</div>
+      <div class="ref-inst">London School of Economics</div>
+      <div class="ref-email"><a href="mailto:a.gavazza@lse.ac.uk">a.gavazza@lse.ac.uk</a></div>
     </div>
     <div class="ref-item">
-      <div class="ref-name"><!-- EDIT: Advisor Name --></div>
-      <div class="ref-inst"><!-- EDIT: Institution --></div>
-      <div class="ref-email"><a href="mailto:<!-- EDIT: email -->"><!-- EDIT: email --></a></div>
+      <div class="ref-name">Daniel Paravisini</div>
+      <div class="ref-inst">London School of Economics</div>
+      <div class="ref-email"><a href="mailto:d.paravisini@lse.ac.uk">d.paravisini@lse.ac.uk</a></div>
     </div>
     <div class="ref-item">
-      <div class="ref-name"><!-- EDIT: Advisor Name --></div>
-      <div class="ref-inst"><!-- EDIT: Institution --></div>
-      <div class="ref-email"><a href="mailto:<!-- EDIT: email -->"><!-- EDIT: email --></a></div>
+      <div class="ref-name">Tarun Ramadorai</div>
+      <div class="ref-inst">London School of Economics</div>
+      <div class="ref-email"><a href="mailto:t.ramadorai@lse.ac.uk">t.ramadorai@lse.ac.uk</a></div>
     </div>
   </div>
 </section>
