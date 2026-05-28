@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://negarmjazi.github.io/sitemap.xml
