@@ -1,31 +1,69 @@
 ---
-layout: about
-title: about
 permalink: /
-
-# EDIT: Your subtitle — institution name and/or department
-subtitle: PhD Candidate in Economics · <a href="https://www.lse.ac.uk">London School of Economics</a>
-
-profile:
-  align: right
-  image: prof_pic.jpg          # EDIT: add your headshot as assets/img/prof_pic.jpg
-  image_circular: true         # set to true for a circular crop (common for academic sites)
-  more_info: # EDIT: add office address here if desired, e.g. <p>Room 123, Department of Economics</p>
-
-selected_papers: true  # shows papers marked selected={true} in papers.bib
-social: true           # shows social icons from _data/socials.yml
-
-announcements:
-  enabled: false       # set to true if you want a news/announcements section
-
-latest_posts:
-  enabled: false       # set to true if you want a recent posts section
+title: ""
+author_profile: false
 ---
 
-<!-- EDIT: Replace this with your bio. 2–3 short paragraphs. -->
+<div class="hero-grid">
+  <div class="hero-left">
+    <img class="headshot" src="/images/profile.jpg" alt="Your Name" />
+  </div>
+  <div class="hero-right">
+    <h1 class="name"><!-- EDIT: Your Name --></h1>
 
-<!-- EDIT: Paragraph 1 — your program, institution, and broad research interests. Example: "I am a PhD candidate in [Field] at the London School of Economics. My research focuses on [topic]." -->
+    <!-- EDIT: Paragraph 1 — your program, institution, and broad research interests. -->
+    <!-- EDIT: Paragraph 2 — job market paper and availability. -->
+    <!-- EDIT: Paragraph 3 — prior background, fields of interest. -->
 
-<!-- EDIT: Paragraph 2 — your job market paper and availability. Example: "My job market paper studies [topic]. I am on the 2025–2026 academic job market and will be available for interviews at the ASSA Annual Meeting in January 2026." -->
+    <p>My CV is <a href="/files/cv.pdf">here</a>, and you can contact me at <a href="mailto:<!-- EDIT: your email -->"><!-- EDIT: your email --></a>.</p>
 
-<!-- EDIT: Paragraph 3 (optional) — prior background, undergraduate institution, or specific research agenda. -->
+    <p><strong>Fields:</strong> <!-- EDIT: e.g. Financial intermediation, asset pricing, monetary economics. --></p>
+  </div>
+</div>
+
+<section class="refs-below">
+  <h2>References</h2>
+  <div class="refs-grid">
+    <div class="ref-item">
+      <div class="ref-name"><!-- EDIT: Advisor Name (primary) --></div>
+      <div class="ref-inst"><!-- EDIT: Institution --></div>
+      <div class="ref-email"><a href="mailto:<!-- EDIT: email -->"><!-- EDIT: email --></a></div>
+    </div>
+    <div class="ref-item">
+      <div class="ref-name"><!-- EDIT: Advisor Name --></div>
+      <div class="ref-inst"><!-- EDIT: Institution --></div>
+      <div class="ref-email"><a href="mailto:<!-- EDIT: email -->"><!-- EDIT: email --></a></div>
+    </div>
+    <div class="ref-item">
+      <div class="ref-name"><!-- EDIT: Advisor Name --></div>
+      <div class="ref-inst"><!-- EDIT: Institution --></div>
+      <div class="ref-email"><a href="mailto:<!-- EDIT: email -->"><!-- EDIT: email --></a></div>
+    </div>
+  </div>
+</section>
+
+<section class="papers">
+  <h2>Research</h2>
+
+  <div class="paper-entry">
+    <h3><!-- EDIT: Job Market Paper Title --> [<a href="/files/jmp.pdf">Draft</a>]</h3>
+    <div class="paper-meta"><strong>Job Market Paper</strong></div>
+    <p class="abstract"><em>Abstract:</em> <!-- EDIT: Your JMP abstract. 3–5 sentences. --></p>
+  </div>
+
+  <div class="paper-entry">
+    <h3><!-- EDIT: Working Paper Title --> [<a href="/files/paper2.pdf">Draft</a>]</h3>
+    <div class="paper-meta">
+      Joint with <a href="#"><!-- EDIT: Coauthor Name --></a>.
+    </div>
+    <p class="abstract"><em>Abstract:</em> <!-- EDIT: Abstract. --></p>
+  </div>
+
+  <div class="paper-entry">
+    <h3><!-- EDIT: Published Paper Title --></h3>
+    <div class="paper-meta">
+      <!-- EDIT: Forthcoming/Published at <em>Journal Name</em>. -->
+    </div>
+    <p class="abstract"><em>Abstract:</em> <!-- EDIT: Abstract. --></p>
+  </div>
+</section>
