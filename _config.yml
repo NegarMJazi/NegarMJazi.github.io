@@ -12,7 +12,6 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Negar Mohammadi Jazi"
 name                     : &name "Negar Mohammadi Jazi"
 title_separator          : "-"
-name                     : &name "EDIT: Your Name"
 description              : &description "PhD Candidate in Economics, London School of Economics"
 url                      : https://negarmjazi.github.io
 baseurl                  : ""
@@ -130,7 +129,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : <meta name="google-site-verification" content="JdnLM-e-IqY5FCCv66OqFQMy2Hr6hQ2DCr0QzEI__FU" />
+google_site_verification : "JdnLM-e-IqY5FCCv66OqFQMy2Hr6hQ2DCr0QzEI__FU"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
