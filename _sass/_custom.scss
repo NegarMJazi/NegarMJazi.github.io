@@ -131,7 +131,8 @@
 
 /* Toggleable abstract (click "Abstract" to expand) */
 .paper-links { font-size: 0.95rem; margin: .15rem 0; }
-.abs-link {
+.label.abs-link {
+  display: inline;
   color: var(--global-link-color);
   text-decoration: underline;
   cursor: pointer;
