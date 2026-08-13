@@ -139,3 +139,4 @@
 .paper-entry .abstract { display: none; }
 .abs-toggle:checked ~ .abstract { display: block; }
 .abstract p { margin: 0; }
+.abs-toggle { display: none !important; }
