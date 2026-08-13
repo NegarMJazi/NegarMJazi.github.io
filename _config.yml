@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "EDIT: Your Name"
+title                    : "Negar Mohammadi Jazi"
+name                     : &name "Negar Mohammadi Jazi"
 title_separator          : "-"
 name                     : &name "EDIT: Your Name"
 description              : &description "PhD Candidate in Economics, London School of Economics"
