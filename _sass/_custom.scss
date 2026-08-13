@@ -128,6 +128,20 @@ label.abs-link {
 .abs-toggle:checked ~ .abstract { display: block; }
 .abstract p { margin: 0; }
 
+/* Wider, more widescreen layout — change 1250px to taste */
+#main,
+.wrapper,
+.masthead__inner-wrap { max-width: 1250px; }
+
+.page {
+  width: 100%;
+  padding-right: 4.2372881356%;
+}
+
+/* Fixed-size headshot, bio fills the rest */
+.hero-left { flex: 0 0 260px; max-width: 260px; }
+.hero-right { flex: 1 1 auto; max-width: none; }
+
 /* Responsive */
 @media (max-width: 1100px) {
   .page { max-width: 1000px; }
@@ -146,14 +160,4 @@ label.abs-link {
   .hero-right .name { text-align: left; }
   .hero-left .headshot { width: 100%; max-width: 480px; }
   .refs-grid { grid-template-columns: 1fr; row-gap: .5rem; }
-}
-
-/* Wider, more widescreen layout — change 1500px to taste */
-#main,
-.wrapper,
-.masthead__inner-wrap { max-width: 1500px; }
-
-.page {
-  width: 100%;
-  padding-right: 4.2372881356%;
 }
