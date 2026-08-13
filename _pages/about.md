@@ -11,9 +11,9 @@ author_profile: false
   <div class="hero-right">
     <h1 class="name">Negar Mohammadi Jazi</h1>
 
-    <p>I am a PhD candidate in Economics at the London School of Economics. My research is in industrial organization and financial intermediation, with a focus on credit markets for small and medium-sized enterprises.</p>
+    <p>I am a PhD candidate in Economics at the London School of Economics. My research is in industrial organization and financial intermediation.</p>
 
-    <p>I am on the 2026-27 economics job market. My job market paper studies how asymmetric information and bank capital regulation shape competition between banks and non-bank lenders in the UK SME loan market.</p>
+    <p>I am on the 2026-27 economics job market.</p>
 
     <!-- OPTIONAL Paragraph 3: prior background before the LSE. Delete this comment if not needed. -->
 
