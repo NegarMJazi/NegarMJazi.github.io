@@ -67,11 +67,11 @@ author_profile: false
   <p>Graduate Teaching Assistant, London School of Economics.</p>
 
   <p>
-    <strong>Microeconomics II</strong> (EC2A3), undergraduate. Autumn 2024.<br>
+    <strong>Microeconomics II</strong> (EC2A3), undergraduate. Autumn 2024 to 2026.<br>
     <strong>Microeconomics I</strong> (EC1A1, EC1A3), undergraduate. 2022 to 2025.
   </p>
 
-  <p>Recent student evaluations: 4.8/5.0 overall satisfaction.</p>
+  <!-- <p>Recent student evaluations: 4.8/5.0 overall satisfaction.</p> -->
 
   <!-- Optional teaching recognition. The award letter is confidential, so never list the amount. Uncomment if you want the line:
   <p>Recognized for teaching by the LSE Department of Economics (2024).</p>
