@@ -6,18 +6,20 @@ author_profile: false
 
 <div class="hero-grid">
   <div class="hero-left">
-    <img class="headshot" src="/images/profile.jpg" alt="Your Name" />
+    <img class="headshot" src="/images/profile.jpg" alt="Negar Mohammadi Jazi" />
   </div>
   <div class="hero-right">
-    <h1 class="name"><!-- EDIT: Your Name --></h1>
+    <h1 class="name">Negar Mohammadi Jazi</h1>
 
-    <!-- EDIT: Paragraph 1 — your program, institution, and broad research interests. -->
-    <!-- EDIT: Paragraph 2 — job market paper and availability. -->
-    <!-- EDIT: Paragraph 3 — prior background, fields of interest. -->
+    <p>I am a PhD candidate in Economics at the London School of Economics. My research is in industrial organization and financial intermediation, with a focus on credit markets for small and medium-sized enterprises.</p>
 
-    <p>My CV is <a href="/files/cv.pdf">here</a>, and you can contact me at <a href="mailto:<!-- EDIT: your email -->"><!-- EDIT: your email --></a>.</p>
+    <p>I am on the 2026-27 economics job market. My job market paper studies how asymmetric information and bank capital regulation shape competition between banks and non-bank lenders in the UK SME loan market.</p>
 
-    <p><strong>Fields:</strong> <!-- EDIT: e.g. Financial intermediation, asset pricing, monetary economics. --></p>
+    <!-- OPTIONAL Paragraph 3: prior background before the LSE. Delete this comment if not needed. -->
+
+    <p>My CV is <a href="/files/cv.pdf">here</a>, and you can contact me at <a href="mailto:n.mohammadi-jazi@lse.ac.uk">n.mohammadi-jazi@lse.ac.uk</a>.</p>
+
+    <p><strong>Fields:</strong> Industrial Organization, Financial Intermediation, Banking</p>
   </div>
 </div>
 
@@ -46,24 +48,24 @@ author_profile: false
   <h2>Research</h2>
 
   <div class="paper-entry">
-    <h3><!-- EDIT: Job Market Paper Title --> [<a href="/files/jmp.pdf">Draft</a>]</h3>
-    <div class="paper-meta"><strong>Job Market Paper</strong></div>
-    <p class="abstract"><em>Abstract:</em> <!-- EDIT: Your JMP abstract. 3–5 sentences. --></p>
+    <h3>Asymmetric Information and Capital Regulation in SME Lending: A Structural Model of Bank and Non-Bank Competition [<a href="/files/jmp.pdf">Draft</a>]</h3>
+    <div class="paper-meta"><strong>Job Market Paper.</strong> Joint with Felipe Netto (Bank of England).</div>
+    <p class="abstract"><em>Abstract:</em> [PASTE YOUR JMP ABSTRACT HERE.]</p>
   </div>
 
   <div class="paper-entry">
-    <h3><!-- EDIT: Working Paper Title --> [<a href="/files/paper2.pdf">Draft</a>]</h3>
+    <h3>[Working Paper Title] [<a href="/files/paper2.pdf">Draft</a>]</h3>
     <div class="paper-meta">
-      Joint with <a href="#"><!-- EDIT: Coauthor Name --></a>.
+      Joint with <a href="#">[Coauthor]</a>.
     </div>
-    <p class="abstract"><em>Abstract:</em> <!-- EDIT: Abstract. --></p>
+    <p class="abstract"><em>Abstract:</em> [Abstract.]</p>
   </div>
 
   <div class="paper-entry">
-    <h3><!-- EDIT: Published Paper Title --></h3>
+    <h3>[Published Paper Title. Delete this whole block if you have no publication.]</h3>
     <div class="paper-meta">
-      <!-- EDIT: Forthcoming/Published at <em>Journal Name</em>. -->
+      [Forthcoming/Published at <em>Journal</em>.]
     </div>
-    <p class="abstract"><em>Abstract:</em> <!-- EDIT: Abstract. --></p>
+    <p class="abstract"><em>Abstract:</em> [Abstract.]</p>
   </div>
 </section>
