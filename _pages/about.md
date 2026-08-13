@@ -13,7 +13,7 @@ author_profile: false
 
     <p>I am a PhD candidate in Economics at the London School of Economics. My research is in industrial organization and financial intermediation.</p>
 
-    <p>I am on the 2026-27 economics job market.</p>
+    <!-- <p>I am on the 2026-27 economics job market.</p> -->
 
     <p>My CV is <a href="/files/cv.pdf">here</a>, and you can contact me at <a href="mailto:n.mohammadi-jazi@lse.ac.uk">n.mohammadi-jazi@lse.ac.uk</a>.</p>
 
