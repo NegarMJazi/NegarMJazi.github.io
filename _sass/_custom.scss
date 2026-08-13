@@ -128,3 +128,14 @@
   .hero-left .headshot { width: 100%; max-width: 480px; }
   .refs-grid { grid-template-columns: 1fr; row-gap: .5rem; }
 }
+
+/* Toggleable abstract (click "Abstract" to expand) */
+.paper-links { font-size: 0.95rem; margin: .15rem 0; }
+.abs-link {
+  color: var(--global-link-color);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.paper-entry .abstract { display: none; }
+.abs-toggle:checked ~ .abstract { display: block; }
+.abstract p { margin: 0; }
