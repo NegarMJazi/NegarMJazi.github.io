@@ -147,3 +147,13 @@ label.abs-link {
   .hero-left .headshot { width: 100%; max-width: 480px; }
   .refs-grid { grid-template-columns: 1fr; row-gap: .5rem; }
 }
+
+/* Wider, more widescreen layout — change 1500px to taste */
+#main,
+.wrapper,
+.masthead__inner-wrap { max-width: 1500px; }
+
+.page {
+  width: 100%;
+  padding-right: 4.2372881356%;
+}
