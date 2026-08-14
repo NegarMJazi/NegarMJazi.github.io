@@ -11,6 +11,8 @@ author_profile: false
   <div class="hero-right">
     <h1 class="name">Negar Mohammadi Jazi</h1>
 
+    <p style="color:#6b7280;font-size:0.9rem;margin:-.35rem 0 .5rem;">Pronounced <em>neh-GAAR</em> (rhymes with "car")</p>
+
     <p>I am a PhD candidate in Economics at the London School of Economics. My research is in industrial organization and financial intermediation.</p>
 
     <!-- <p>I am on the 2026-27 economics job market.</p> -->
