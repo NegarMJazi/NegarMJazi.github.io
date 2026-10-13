@@ -14,12 +14,9 @@ author_profile: false
 
     <p>I am a PhD candidate in Economics at the London School of Economics. My research is in industrial organization and financial intermediation.</p>
 
-    <!-- <p>I am on the 2026-27 economics job market.</p> -->
-
-    <p>My CV is <a href="https://drive.google.com/file/d/1_E8JtmalrbzVuJUKeLp2s8e1uzgyNGku/view?usp=sharing" target="_blank">here</a>, and you can contact me at <a href="mailto:n.mohammadi-jazi@lse.ac.uk">n.mohammadi-jazi@lse.ac.uk</a>.
+    <p>My CV is <a href="https://drive.google.com/file/d/1_E8JtmalrbzVuJUKeLp2s8e1uzgyNGku/view?usp=sharing" target="_blank">here</a>, and you can contact me at <a href="mailto:n.mohammadi-jazi@lse.ac.uk">n.mohammadi-jazi@lse.ac.uk</a>.</p>
 
     <p><strong>I am on the 2026-2027 job market.</strong></p>
-
 
     <p><strong>Fields:</strong> Industrial Organization, Financial Intermediation, Banking</p>
   </div>
@@ -68,15 +65,12 @@ author_profile: false
     <div class="paper-meta">Joint with <a href="https://felipesnetto.github.io/index.html">Felipe Netto</a> (Bank of England).</div>
   </div>
 
-</section>
-
-
   <!-- Template for another paper. Uncomment and give the checkbox a NEW id (e.g. abs-2):
   <div class="paper-entry">
-    <h3>Working Paper Title</h3>
+    <h4>Working Paper Title</h4>
     <div class="paper-meta">Joint with Coauthor.</div>
     <input type="checkbox" id="abs-2" class="abs-toggle" hidden>
-    <span class="paper-links">[<label for="abs-2" class="abs-link">Abstract</label>] [<a href="/files/paper2.pdf">Draft</a>]</span>
+    <span class="paper-links">[<label for="abs-2" class="abs-link">Abstract</label> | <a href="/files/paper2.pdf" target="_blank">Draft</a>]</span>
     <div class="abstract"><p>Abstract text.</p></div>
   </div>
   -->
@@ -91,10 +85,4 @@ author_profile: false
     <strong>Microeconomics II</strong> (EC2A3), undergraduate. Autumn 2024 to 2026.<br>
     <strong>Microeconomics I</strong> (EC1A1, EC1A3), undergraduate. 2022 to 2025.
   </p>
-
-  <!-- <p>Recent student evaluations: 4.8/5.0 overall satisfaction.</p> -->
-
-  <!-- Optional teaching recognition. The award letter is confidential, so never list the amount. Uncomment if you want the line:
-  <p>Recognized for teaching by the LSE Department of Economics (2024).</p>
-  -->
 </section>
