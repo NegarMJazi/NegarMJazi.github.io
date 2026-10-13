@@ -51,6 +51,22 @@ author_profile: false
     <div class="abstract"><p>We study how competition between banks and non-banks in UK unsecured SME lending is shaped by bank-only risk-based capital requirements, differences in screening abilities, and their interaction. Combining confidential loan-level data with hand-collected data on lenders' screening channels, we document that banks screen loans either automatically or through relationship managers, while non-banks screen only automatically. Motivated by this pattern, we estimate a structural model of lending and find that non-banks assess risk more precisely when both lenders screen automatically, but banks become more precise once they switch to human screening. In counterfactuals, tighter capital requirements raise bank rates less under human screening, where more precise screening lets banks retain safer, less capital-intensive borrowers. Moreover, fully automating banks' screening expands access to credit, but the loss of precision raises banks' default rates.</p></div>
   </div>
 
+    <div class="paper-entry">
+    <h3>Capital Requirements on Unused Credit Lines: Evidence from SME Credit Cards</h3>
+    <div class="paper-meta"><strong>Work in progress.</strong> Joint with <a href="https://felipesnetto.github.io/index.html">Felipe Netto</a> (Bank of England).</div>
+    <input type="checkbox" id="abs-cc" class="abs-toggle" hidden>
+    <span class="paper-links">[<label for="abs-cc" class="abs-link">Abstract</label> | <a href="CREDIT_CARD_DRAFT_LINK" target="_blank">Draft</a>]</span>
+    <div class="abstract"><p>CREDIT_CARD_ABSTRACT_TEXT</p></div>
+  </div>
+
+  <div class="paper-entry">
+    <h3>The Value of Regulatory Capital Relief: The Matching Adjustment and Insurers' Bond Portfolios</h3>
+    <div class="paper-meta"><strong>Work in progress.</strong> Joint with <a href="https://felipesnetto.github.io/index.html">Felipe Netto</a> (Bank of England).</div>
+    <input type="checkbox" id="abs-ma" class="abs-toggle" hidden>
+    <span class="paper-links">[<label for="abs-ma" class="abs-link">Abstract</label> | <a href="MATCHING_ADJUSTMENT_DRAFT_LINK" target="_blank">Draft</a>]</span>
+    <div class="abstract"><p>MATCHING_ADJUSTMENT_ABSTRACT_TEXT</p></div>
+  </div>
+
   <!-- Template for another paper. Uncomment and give the checkbox a NEW id (e.g. abs-2):
   <div class="paper-entry">
     <h3>Working Paper Title</h3>
