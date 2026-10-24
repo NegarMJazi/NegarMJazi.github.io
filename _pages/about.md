@@ -12,13 +12,13 @@ author_profile: false
     <h1 class="name">Negar Mohammadi-Jazi</h1>
     <p style="color:#9ca3af;font-size:0.7rem;margin:-.3rem 0 .55rem;">Pronounced <em>neh-GAR</em> (rhymes with "car")</p>
 
-    <p>I am a PhD candidate in Economics at the London School of Economics. My research is in industrial organization and financial intermediation.</p>
+    <p>I am a PhD candidate in Economics at the London School of Economics. My research is in financial intermediation, banking, and industrial organization.</p>
 
     <p>My CV is <a href="https://drive.google.com/file/d/1_E8JtmalrbzVuJUKeLp2s8e1uzgyNGku/view?usp=sharing" target="_blank">here</a>, and you can contact me at <a href="mailto:n.mohammadi-jazi@lse.ac.uk">n.mohammadi-jazi@lse.ac.uk</a>.</p>
 
     <p><strong>I am on the 2026-2027 job market.</strong></p>
 
-    <p><strong>Fields:</strong> Industrial Organization, Financial Intermediation, Banking</p>
+    <p><strong>Fields:</strong> Financial Intermediation, Banking, Industrial Organization</p>
   </div>
 </div>
 
