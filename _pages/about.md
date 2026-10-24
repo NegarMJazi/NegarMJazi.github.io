@@ -6,10 +6,10 @@ author_profile: false
 
 <div class="hero-grid">
   <div class="hero-left">
-    <img class="headshot" src="/images/profile.jpg" alt="Negar Mohammadi Jazi" />
+    <img class="headshot" src="/images/profile.jpg" alt="Negar Mohammadi-Jazi" />
   </div>
   <div class="hero-right">
-    <h1 class="name">Negar Mohammadi Jazi</h1>
+    <h1 class="name">Negar Mohammadi-Jazi</h1>
     <p style="color:#9ca3af;font-size:0.7rem;margin:-.3rem 0 .55rem;">Pronounced <em>neh-GAR</em> (rhymes with "car")</p>
 
     <p>I am a PhD candidate in Economics at the London School of Economics. My research is in industrial organization and financial intermediation.</p>
