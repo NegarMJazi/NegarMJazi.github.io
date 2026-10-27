@@ -6,7 +6,7 @@ author_profile: false
 
 <div class="hero-grid">
   <div class="hero-left">
-    <img class="headshot" src="/images/profile.jpg" alt="Negar Mohammadi-Jazi" />
+    <img class="headshot" src="/images/profile-2026.jpg" alt="Negar Mohammadi-Jazi" />
   </div>
   <div class="hero-right">
     <h1 class="name">Negar Mohammadi-Jazi</h1>
