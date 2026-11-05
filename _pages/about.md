@@ -27,14 +27,17 @@ author_profile: false
   <div class="refs-grid">
     <div class="ref-item">
       <div class="ref-name">Alessandro Gavazza</div>
+      <div class="ref-inst">Goh Keng Swee Chair in Economics</div>
       <div class="ref-inst">London School of Economics</div>
     </div>
     <div class="ref-item">
       <div class="ref-name">Daniel Paravisini</div>
+      <div class="ref-inst">Professor of Finance</div>
       <div class="ref-inst">London School of Economics</div>
     </div>
     <div class="ref-item">
       <div class="ref-name">Tarun Ramadorai</div>
+      <div class="ref-inst">Professor of Financial Economics</div>
       <div class="ref-inst">London School of Economics</div>
     </div>
   </div>
