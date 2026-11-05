@@ -79,4 +79,7 @@ author_profile: false
     <strong>Microeconomics II</strong> (EC2A3), undergraduate. Autumn 2024 to 2026.<br>
     <strong>Microeconomics I</strong> (EC1A1, EC1A3), undergraduate. 2022 to 2025.
   </p>
+
+  <p style="font-size:0.85rem;color:#6b7280;"><em>Latest teaching evaluation</em> (Microeconomics I, Winter Term 2026): overall satisfaction 4.8/5 (LSE instructor average 4.6); communicates ideas and concepts effectively 4.7/5.<br>
+  <em>&ldquo;Great teacher, really good at explaining concepts and ensuring understanding.&rdquo;</em></p>
 </section>
