@@ -164,8 +164,8 @@ label.abs-link {
 /* ===== Refined look (Nov 2026): burgundy accents, plain text paper links ===== */
 :root{--accent:#7a1f2b;--rule:rgba(120,120,120,.25);--muted:#6b7280;--panel:rgba(120,120,120,.06)}
 html[data-theme="dark"]{--accent:#e3a0a9;--rule:rgba(200,200,200,.22);--muted:#9ca3af;--panel:rgba(255,255,255,.05)}
-.page__content a{color:var(--accent);text-decoration:none;border-bottom:1px solid transparent;transition:border-color .15s,opacity .2s}
-.page__content a:hover{border-bottom-color:currentColor}
+.page__content a{color:var(--accent);text-decoration:none;transition:opacity .2s}
+.page__content a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
 .page__content h2{border-bottom:1px solid var(--rule);padding-bottom:.3rem}
 .research-group{text-transform:uppercase;letter-spacing:.08em;font-size:.76rem!important;color:var(--muted)}
 /* paper links: plain text, thin dividers (hides the literal [ | ] separators) */
