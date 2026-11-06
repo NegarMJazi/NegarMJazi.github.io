@@ -60,12 +60,12 @@ author_profile: false
   <p class="research-group" style="margin:1.6rem 0 .4rem;font-weight:700;font-size:1.05rem;">Work in Progress</p>
 
   <div class="paper-entry">
-    <h3>Capital Requirements on Unused Credit Lines: Evidence from SME Credit Cards</h3>
+    <h3>Small Firms' Access to Liquidity</h3>
     <div class="paper-meta">Joint with <a href="https://felipesnetto.github.io/index.html">Felipe Netto</a> (Bank of England).</div>
   </div>
 
   <div class="paper-entry">
-    <h3>The Value of Regulatory Capital Relief: The Matching Adjustment and Insurers' Bond Portfolios</h3>
+    <h3>The Matching Adjustment and Corporate Bond Markets</h3>
     <div class="paper-meta">Joint with <a href="https://felipesnetto.github.io/index.html">Felipe Netto</a> (Bank of England).</div>
   </div>
 </section>
