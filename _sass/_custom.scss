@@ -179,6 +179,6 @@ html[data-theme="dark"]{--accent:#e3a0a9;--rule:rgba(200,200,200,.22);--muted:#9
 .abstract p{margin:0}
 
 /* warm off-white background (light mode only) */
-html:not([data-theme="dark"]){--global-bg-color:#fbf8f3;--global-footer-bg-color:#f3eee6}
-html:not([data-theme="dark"]) body,html:not([data-theme="dark"]) .masthead,html:not([data-theme="dark"]) .greedy-nav{background-color:#fbf8f3}
-html:not([data-theme="dark"]) .page__footer{background-color:#f3eee6}
+html:not([data-theme="dark"]){--global-bg-color:#fdfcf9;--global-footer-bg-color:#f5f3ee}
+html:not([data-theme="dark"]) body,html:not([data-theme="dark"]) .masthead,html:not([data-theme="dark"]) .greedy-nav{background-color:#fdfcf9}
+html:not([data-theme="dark"]) .page__footer{background-color:#f5f3ee}
