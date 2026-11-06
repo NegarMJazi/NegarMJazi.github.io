@@ -76,8 +76,9 @@ author_profile: false
   <p>Graduate Teaching Assistant, London School of Economics.</p>
 
   <p>
-    <strong>Microeconomics I</strong> (EC1A1), undergraduate. Winter terms 2023&ndash;2026. <span class="paper-links">[<a href="/files/teaching-evaluation-2026.pdf" target="_blank">Latest teaching evaluation</a>]</span><br>
+    <strong>Microeconomics I</strong> (EC1A1), undergraduate. Winter terms 2023&ndash;2026.<br>
     <strong>Microeconomics II</strong> (EC2A3), undergraduate. Autumn 2024 and Autumn 2025.<br>
     <strong>Microeconomics I</strong> (EC1A3), undergraduate. Autumn 2022 and Autumn 2023.
   </p>
+  <div class="teaching-links" style="margin-top:-.7rem;"><span class="paper-links"><a href="/files/teaching-evaluation-2026.pdf" target="_blank">Latest teaching evaluation</a></span></div>
 </section>
