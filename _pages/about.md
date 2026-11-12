@@ -17,8 +17,8 @@ author_profile: false
     <p><strong>I am on the 2026-2027 job market.</strong></p>
 
     <p class="paper-links">
-      <a href="https://drive.google.com/file/d/1_E8JtmalrbzVuJUKeLp2s8e1uzgyNGku/view?usp=sharing" target="_blank">CV</a> |
-      <a href="/files/MohammadiJazi_ResearchStatement.pdf" target="_blank">Research Statement</a> |
+      <a href="https://drive.google.com/file/d/1_E8JtmalrbzVuJUKeLp2s8e1uzgyNGku/view?usp=sharing" target="_blank" data-goatcounter-click="cv" data-goatcounter-title="CV">CV</a> |
+      <a href="/files/MohammadiJazi_ResearchStatement.pdf" target="_blank" data-goatcounter-click="research-statement" data-goatcounter-title="Research Statement">Research Statement</a> |
       <a href="mailto:n.mohammadi-jazi@lse.ac.uk">n.mohammadi-jazi@lse.ac.uk</a>
     </p>
 
@@ -57,7 +57,7 @@ author_profile: false
     <div class="paper-meta">Joint with <a href="https://felipesnetto.github.io/index.html">Felipe Netto</a> (Bank of England).</div>
     <div class="paper-meta" style="font-size:0.85rem;color:#6b7280;"><em>Presentations:</em> Rising Scholars Conference in Finance 2026 (University of Zurich), ECB Conference on Financial Stability and Macroprudential Policy 2026 (scheduled), 2026 EBA Policy Research Workshop (scheduled), 16th Workshop of the Empirical Financial Intermediation Network (scheduled).</div>
     <input type="checkbox" id="abs-jmp" class="abs-toggle" hidden>
-    <span class="paper-links">[<label for="abs-jmp" class="abs-link">Abstract</label> | <a href="https://drive.google.com/file/d/1vxy4ZTkesZdEDKTO40_AnNr0mES3iaId/view?usp=sharing" target="_blank">Draft</a>]</span>
+    <span class="paper-links">[<label for="abs-jmp" class="abs-link" data-goatcounter-click="jmp-abstract" data-goatcounter-title="JMP abstract opened">Abstract</label> | <a href="https://drive.google.com/file/d/1vxy4ZTkesZdEDKTO40_AnNr0mES3iaId/view?usp=sharing" target="_blank" data-goatcounter-click="jmp-draft" data-goatcounter-title="JMP draft">Draft</a>]</span>
     <div class="abstract"><p>We study competition between banks and non-banks in UK unsecured SME lending. Two features distinguish the two lender types. First, only banks face risk-based capital requirements. Second, their screening technologies, and so their screening abilities, may differ. We ask how these two features, and the interaction between them, shape competition between banks and non-banks. Using administrative loan-level data and new hand-collected data on screening channels, we document that banks screen smaller loans online and larger loans through relationship managers, while non-banks screen all loans online. To separate screening precision from borrower selection and from the cost of capital regulation, we develop and estimate a model of lending. Non-banks assess risk more precisely when both lenders screen online, but banks become more precise once they switch to human screening. Capital regulation accounts for about a quarter of banks’ cost of lending, and this capital cost depends on how precisely banks screen. In counterfactuals, if banks screened all loans online, credit would expand, but banks’ default rates would rise, mainly due to a loss in screening precision. Raising banks’ capital requirements by removing the SME supporting factor leads banks to raise rates most for the borrowers they assess as risky. Where banks screen online and less precisely, they lose some safe borrowers they misjudge as risky to non-banks.</p></div>
   </div>
 
@@ -84,5 +84,5 @@ author_profile: false
     <strong>Microeconomics II</strong> (EC2A3), undergraduate. Autumn 2024 and Autumn 2025.<br>
     <strong>Microeconomics I</strong> (EC1A3), undergraduate. Autumn 2022 and Autumn 2023.
   </p>
-  <div class="teaching-links" style="margin-top:-.7rem;"><span class="paper-links"><a href="/files/teaching-evaluation-2026.pdf" target="_blank">Latest teaching evaluation</a></span></div>
+  <div class="teaching-links" style="margin-top:-.7rem;"><span class="paper-links"><a href="/files/teaching-evaluation-2026.pdf" target="_blank" data-goatcounter-click="teaching-evaluation" data-goatcounter-title="Teaching evaluation">Latest teaching evaluation</a></span></div>
 </section>
