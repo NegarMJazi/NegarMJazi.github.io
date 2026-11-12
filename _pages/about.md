@@ -19,7 +19,7 @@ author_profile: false
     <p class="paper-links">
       <a href="https://drive.google.com/file/d/1_E8JtmalrbzVuJUKeLp2s8e1uzgyNGku/view?usp=sharing" target="_blank" data-goatcounter-click="cv" data-goatcounter-title="CV">CV</a> |
       <a href="/files/MohammadiJazi_ResearchStatement.pdf" target="_blank" data-goatcounter-click="research-statement" data-goatcounter-title="Research Statement">Research Statement</a> |
-      <a href="mailto:n.mohammadi-jazi@lse.ac.uk">n.mohammadi-jazi@lse.ac.uk</a>
+      <a href="mailto:n.mohammadi-jazi@lse.ac.uk" data-goatcounter-click="email" data-goatcounter-title="Email link clicked">n.mohammadi-jazi@lse.ac.uk</a>
     </p>
 
     <p><strong>Fields:</strong> Financial Intermediation, Corporate Finance, Industrial Organization</p>
