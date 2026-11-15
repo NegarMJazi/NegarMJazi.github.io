@@ -66,11 +66,17 @@ author_profile: false
   <div class="paper-entry">
     <h3>Small Firms' Access to Liquidity</h3>
     <div class="paper-meta">Joint with <a href="https://felipesnetto.github.io/index.html">Felipe Netto</a> (Bank of England).</div>
+    <input type="checkbox" id="abs-liq" class="abs-toggle" hidden>
+    <span class="paper-links">[<label for="abs-liq" class="abs-link" data-umami-event="liquidity-abstract">Abstract</label>]</span>
+    <div class="abstract"><p>Small firms draw on several sources of liquidity, including cash, credit cards, credit lines and term loans, but these are rarely observed together for the same firm. This project uses UK data that record SMEs’ accounts with banks and non-banks, from current accounts and credit cards to credit lines and term loans. With these data, it explores how firms respond to liquidity shocks across products and lenders, and whether some firms end up relying on more expensive sources such as credit cards. The Basel 3.1 capital charge on unused credit limits may also offer a way to study how changes in the supply of this liquidity insurance affect SMEs.</p></div>
   </div>
 
   <div class="paper-entry">
     <h3>The Matching Adjustment and Corporate Bond Markets</h3>
     <div class="paper-meta">Joint with <a href="https://felipesnetto.github.io/index.html">Felipe Netto</a> (Bank of England).</div>
+    <input type="checkbox" id="abs-ma" class="abs-toggle" hidden>
+    <span class="paper-links">[<label for="abs-ma" class="abs-link" data-umami-event="ma-abstract">Abstract</label>]</span>
+    <div class="abstract"><p>UK insurers are important investors on the demand side of the corporate bond market. Under the Solvency II Matching Adjustment, an insurer obtains capital relief on assets whose cash flows match its annuity liabilities, so the relief is specific to each insurer-bond pair. Combining insurer holdings, Matching Adjustment returns and transaction-level bond trades, this project studies how much insurers value the relief, how recent reforms that widened the set of eligible assets affected bond prices and issuance, and whether the relief helps insurers stabilise the bond market in periods of stress.</p></div>
   </div>
 </section>
 
