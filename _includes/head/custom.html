@@ -25,4 +25,9 @@
 <!-- Umami visit counter (cookie-free) -->
 <script defer src="https://cloud.umami.is/script.js" data-website-id="6d5487a4-9a1d-4007-9f55-91809b7778fd"></script>
 
+<!-- abs-dblclick: ignore a second click within 600 ms on an Abstract toggle, so a double-click does not open and instantly close it -->
+<script>
+document.addEventListener("click",function(e){var l=e.target&&e.target.closest?e.target.closest("label.abs-link"):null;if(!l)return;var n=Date.now();if(l._absT&&n-l._absT<600){e.preventDefault();}l._absT=n;},true);
+</script>
+
 <!-- end custom head snippets -->
